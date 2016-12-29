@@ -1,3 +1,5 @@
+#VOTING MANAGEMENT SYSTEM
+
 To run the project you should have ECLIPSE IDE.
 
 Details :
