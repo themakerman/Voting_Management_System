@@ -5,6 +5,25 @@ To run the project you should have ECLIPSE IDE.
 Details :
 This software is a Simple Desktop Voting management application made in JAVA using MYSQL as DATABASE. The software is used for casting vote to political parties in India during Lok Sabha elections which are held every 5 years. Below are the screenshots for better understanding.
 
+![thumbnail](https://cloud.githubusercontent.com/assets/14818804/22244591/33f0f69a-e252-11e6-9df5-7e3146870573.png)
+
+
+
+![macmock1-psd](https://cloud.githubusercontent.com/assets/14818804/22244592/33f45538-e252-11e6-9bc7-ca29a327ce29.png)
+
+
+
+![macmock2-psd](https://cloud.githubusercontent.com/assets/14818804/22244593/33fa3ca0-e252-11e6-8b95-8bd18344e161.png)
+
+
+
+![macmock4-psd](https://cloud.githubusercontent.com/assets/14818804/22244595/34057d86-e252-11e6-8802-c7c4309b5c32.png)
+
+
+
+![macmock7-psd](https://cloud.githubusercontent.com/assets/14818804/22244594/3404703a-e252-11e6-9698-a0aa0db8b439.png)
+
+
 ![1 voter login page](https://cloud.githubusercontent.com/assets/14818804/21485609/bb3763c0-cbcb-11e6-9063-74237af0add2.jpg)
 
 
