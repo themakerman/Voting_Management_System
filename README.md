@@ -8,7 +8,6 @@ more contesting due to some reason, so administrator can simply remove that cand
 Technology: Java, JDBC development, MYSQL Database, Java Swing Development
 
 
-Worklink: https://github.com/themakerman/Voting_Management_System
 
 
 ![thumbnail](https://cloud.githubusercontent.com/assets/14818804/22244591/33f0f69a-e252-11e6-9df5-7e3146870573.png)
