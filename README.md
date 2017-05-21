@@ -2,8 +2,14 @@
 
 To run the project you should have ECLIPSE IDE.
 
-Details :
-This software is a Simple Desktop Voting management application made in JAVA using MYSQL as DATABASE. The software is used for casting vote to political parties in India during Lok Sabha elections which are held every 5 years. Below are the screenshots for better understanding.
+Description: As a proof of concept voting system was made available only over LAN. This software was made to mimic voting machine used at the time of political elections in democratic country like India. Every Indian citizen above 21+ age is registered as eligible
+voter with election database where each one is assigned with a unique voter_id (primary_key).  At the time of elections, voter visits the voting center with computers running this software.  After necessary security check, voter enters its unique voter_id to log into the software and  can use “Cast Vote” feature to vote a particular political party. Besides voting a party, user  can also see other features like projection poll/opinion poll, more information about a  particular party, etc. This software is also provided with Administrator panel where CRUD  operations can be performed on database. Suppose a candidate contesting election is no
+more contesting due to some reason, so administrator can simply remove that candidate or add new candidate using CRUD operations locally in case, the general election body doesn’t makes the changes on database in required time. A security feature is implemented that restricts the voter to cast multiple votes. Once voter casts the vote, the software automatically log outs its session.
+Technology: Java, JDBC development, MYSQL Database, Java Swing Development
+
+
+Worklink: https://github.com/themakerman/Voting_Management_System
+
 
 ![thumbnail](https://cloud.githubusercontent.com/assets/14818804/22244591/33f0f69a-e252-11e6-9df5-7e3146870573.png)
 
